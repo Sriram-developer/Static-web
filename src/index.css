@@ -1,1 +1,10 @@
+*{
+    padding: 0px;
+    marigin: 0px;
+}
 
+.container{
+    height: 100vh;
+    background-color: red;
+
+}
